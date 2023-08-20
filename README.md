@@ -2,7 +2,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Austinayu.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/Austinayu.svg?style=social&label=Follow)](https://github.com/Austinayu?tab=followers)<br/>
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GBjcS_352j0AAAAi/rafs84-rafs-design.gif" />
 
-## <img src="zhttps://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="30px">&nbsp;***About me***
 
 I am an B.tech Computer science and Engineering student . C, Java, Javascript, HTML, and PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and Cloud computing**
