@@ -1,2 +1,2 @@
 # Ayush-Kumar
-This is my resume profile
+This is my github profile
