@@ -1,6 +1,6 @@
 # Hi there 👋, Ayush here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Austinayu.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/Austinayu.svg?style=social&label=Follow)](https://github.com/Austinayu?tab=followers)<br/>
-<img align="right" width=300px alt="Unicorn" src="[[[https://media.tenor.com/GBjcS_352j0AAAAi/rafs84-rafs-design.gif](https://media.tenor.com/GBjcS_352j0AAAAi/rafs84-rafs-design.gif)]" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/GBjcS_352j0AAAAi/rafs84-rafs-design.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
